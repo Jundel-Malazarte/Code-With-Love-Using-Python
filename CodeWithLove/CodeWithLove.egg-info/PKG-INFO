@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: CodeWithLove
+Version: 0.1.0
+Summary: Code with love using Python
+Home-page: https://github.com/Jundel-Malazarte/Code-With-Love-Using-Python
+Author: Null Void
+Author-email: jundelmalazarte348@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Code With Love
+
+Code with love using Python.
+

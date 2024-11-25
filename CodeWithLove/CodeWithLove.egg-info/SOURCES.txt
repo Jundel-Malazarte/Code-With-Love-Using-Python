@@ -1,0 +1,9 @@
+Setup.py
+setup.py
+CodeWithLove/CodeWithLove.egg-info/PKG-INFO
+CodeWithLove/CodeWithLove.egg-info/SOURCES.txt
+CodeWithLove/CodeWithLove.egg-info/dependency_links.txt
+CodeWithLove/CodeWithLove.egg-info/entry_points.txt
+CodeWithLove/CodeWithLove.egg-info/top_level.txt
+CodeWithLove/my_package/__init__.py
+CodeWithLove/my_package/main.py

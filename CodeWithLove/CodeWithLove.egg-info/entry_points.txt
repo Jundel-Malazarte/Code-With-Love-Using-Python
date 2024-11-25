@@ -1,0 +1,2 @@
+[console_scripts]
+code-with-love = CodeWithLove.my_package.main:main
