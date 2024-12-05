@@ -1,7 +1,7 @@
 import turtle
 
 def draw_heart():
-    # Draw a heart shape
+    # heart shape
     heart = turtle.Turtle()
     heart.speed(3)
     heart.color("red")
